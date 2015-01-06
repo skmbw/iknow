@@ -8,7 +8,7 @@
 		<property name="javaFileEncoding" value="UTF-8"/>
 		<property name="suppressDate" value="true"/>
 		<property name="trimStrings" value="true"/>
-		<property name="projectPath" value="D:\\workspace\\iknow\\"/>
+		<property name="projectPath" value="C:\Users\Administrator\git\iknow\"/>
 		<property name="defaultPackage" value="src/main/java/"/>
 		<!-- jdbc连接配置 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/iknow" userId="root" password="3416763" />

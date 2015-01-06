@@ -18,7 +18,7 @@ public class TestCoder {
 		tableListMap.put("question_type", "问题分类信息");
 		
 	    //项目绝对路径
-		String rootPath = "D:\\workspace\\iknow\\";
+		String rootPath = "C:\\Users\\Administrator\\git\\iknow\\";
 		CodeBuilder builder = new CodeBuilder(rootPath, TempType.Mybatis);
 		builder.setConfigFilePath("src/main/resources/config.properties")
 		.setSrcPath("src/main/java/")
